@@ -1,0 +1,19 @@
+form{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    background-color: beige;
+    color: brown;
+    box-shadow: 5px 5px 15px hsla(0, 0%, 0%, 0.289);
+}
+
+h1{
+    color:brown
+}
+
+#submitButton{
+    color:  black;
+    background-color: hsla(0, 32%, 73%, 0.484);
+    border-radius: 5px;
+    border: 10px;
+}
